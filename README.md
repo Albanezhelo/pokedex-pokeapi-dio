@@ -9,7 +9,7 @@ A aplicação consiste em uma **Pokedex interativa**, construída em **JavaScrip
 - JavaScript
 - PokeAPI
 
-![Demonstração do projeto](demo.png)
+![Demonstração do projeto](https://github.com/Albanezhelo/pokedex-pokeapi-dio/blob/main/demo.png?raw=true)
 
 📚 O que aprendi
 
