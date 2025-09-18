@@ -17,11 +17,8 @@ Como consumir dados de uma API REST com fetch.
 Uso de funções de array como map e join para simplificar o código.
 Organização de código em múltiplos arquivos JS.
 
-🏆 Certificado
 
-Este projeto faz parte do Bootcamp da DIO e foi concluído com certificado.
-
-
+🏆 Certificado de Conclusão: Este projeto faz parte do Bootcamp da DIO.[Visualize o certificado](https://www.dio.me/certificate/JMCPLTYH/share)
 
 Heloisa Albanez<br>
 🔗[Meu Linkedin](https://www.linkedin.com/in/heloisaalbanezpaciencia/)
