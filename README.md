@@ -9,6 +9,8 @@ A aplicação consiste em uma **Pokedex interativa**, construída em **JavaScrip
 - JavaScript
 - PokeAPI
 
+![Demonstração do projeto](assets/demo.png)
+
 📚 O que aprendi
 
 Como consumir dados de uma API REST com fetch.
