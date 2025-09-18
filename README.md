@@ -9,7 +9,7 @@ A aplicação consiste em uma **Pokedex interativa**, construída em **JavaScrip
 - JavaScript
 - PokeAPI
 
-![Demonstração do projeto](assets/demo.png)
+![Demonstração do projeto](demo.png)
 
 📚 O que aprendi
 
