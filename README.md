@@ -13,9 +13,9 @@ A aplicação consiste em uma **Pokedex interativa**, construída em **JavaScrip
 
 📚 O que aprendi
 
-Como consumir dados de uma API REST com fetch.
-Uso de funções de array como map e join para simplificar o código.
-Organização de código em múltiplos arquivos JS.
+Como consumir dados de uma API REST com fetch.<br>
+Uso de funções de array como map e join para simplificar o código.<br>
+Organização de código em múltiplos arquivos JS.<br>
 
 
 🏆 Certificado de Conclusão: Este projeto faz parte do Bootcamp da DIO.[Visualize o certificado](https://www.dio.me/certificate/JMCPLTYH/share)
