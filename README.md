@@ -23,5 +23,5 @@ Este projeto faz parte do Bootcamp da DIO e foi concluído com certificado.
 
 
 
-Heloisa Albanez
+Heloisa Albanez<br>
 🔗[Meu Linkedin](https://www.linkedin.com/in/heloisaalbanezpaciencia/)
